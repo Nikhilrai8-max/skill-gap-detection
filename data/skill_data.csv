@@ -1,0 +1,69 @@
+skill,demand_score,supply_score,CLO_Programming,CLO_DSA,CLO_DBMS,CLO_WebDev,CLO_Cloud
+Python,92,78,1,1,0,0,0
+Java,88,74,1,1,0,0,0
+C++,81,70,1,1,0,0,0
+C#,75,62,1,0,0,0,0
+JavaScript,95,68,0,0,0,1,0
+TypeScript,84,57,0,0,0,1,0
+HTML/CSS,89,80,0,0,0,1,0
+ReactJS,93,60,0,0,0,1,0
+NodeJS,90,55,0,0,0,1,0
+ExpressJS,85,52,0,0,0,1,0
+Angular,79,48,0,0,0,1,0
+SQL,91,82,0,0,1,0,0
+PostgreSQL,86,74,0,0,1,0,0
+MySQL,88,77,0,0,1,0,0
+MongoDB,84,63,0,0,1,0,0
+NoSQL,80,59,0,0,1,0,0
+Git,87,76,1,0,0,0,0
+GitHub,89,78,1,0,0,0,0
+REST APIs,92,66,0,0,0,1,0
+GraphQL,78,45,0,0,0,1,0
+Docker,94,50,0,0,0,0,1
+Kubernetes,92,44,0,0,0,0,1
+CI/CD,90,52,0,0,0,0,1
+Linux,89,70,1,0,0,0,0
+Shell Scripting,76,64,1,0,0,0,0
+AWS,96,40,0,0,0,0,1
+Azure,88,42,0,0,0,0,1
+GCP,85,37,0,0,0,0,1
+Agile/Scrum,82,72,0,0,0,0,0
+SDLC,86,75,0,0,0,0,0
+OOP Concepts,88,84,1,1,0,0,0
+Data Structures,95,82,0,1,0,0,0
+Algorithms,94,80,0,1,0,0,0
+Operating Systems,83,70,1,0,0,0,0
+Computer Networks,86,68,0,1,0,0,0
+DBMS Concepts,90,80,0,0,1,0,0
+Software Testing,77,65,0,0,0,0,0
+Selenium,70,48,0,0,0,0,0
+API Testing,72,50,0,0,0,0,0
+Jenkins,79,55,0,0,0,0,1
+Terraform,81,40,0,0,0,0,1
+Microservices,88,56,0,0,0,1,0
+Kafka,84,38,0,0,0,0,1
+System Design,96,62,0,1,0,0,0
+Low-Level Design,92,60,0,1,0,0,0
+High-Level Design,93,58,0,1,0,0,0
+Data Modeling,87,70,0,0,1,0,0
+Cybersecurity Basics,80,64,0,0,0,0,0
+Machine Learning,94,55,1,1,0,0,1
+Deep Learning,92,50,1,1,0,0,0
+Data Analysis,90,70,0,0,1,0,0
+Power BI,80,60,0,0,1,0,0
+Tableau,82,58,0,0,1,0,0
+API Security,88,40,0,0,0,0,1
+Ethical Hacking,86,42,0,0,0,0,1
+Network Security,89,48,0,0,0,0,1
+Linux Administration,84,65,1,0,0,0,0
+Bash Scripting,78,55,1,0,0,0,0
+Android Development,85,50,0,0,0,1,0
+UI/UX Design,75,62,0,0,0,1,0
+DevOps Fundamentals,90,52,0,0,0,0,1
+Cloud Architecture,93,48,0,0,0,0,1
+System Administration,82,70,1,0,0,0,0
+Communication,78,80,0,0,0,0,0
+Leadership,70,68,0,0,0,0,0
+Problem Solving,88,75,1,1,0,0,0
+Critical Thinking,85,74,1,1,0,0,0
+Team Collaboration,80,78,0,0,0,0,0

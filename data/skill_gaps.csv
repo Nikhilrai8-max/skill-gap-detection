@@ -1,0 +1,69 @@
+skill,demand_score,supply_score,CLO_Programming,CLO_DSA,CLO_DBMS,CLO_WebDev,CLO_Cloud,gap
+AWS,96,40,0,0,0,0,1,56
+API Security,88,40,0,0,0,0,1,48
+Kubernetes,92,44,0,0,0,0,1,48
+GCP,85,37,0,0,0,0,1,48
+Kafka,84,38,0,0,0,0,1,46
+Azure,88,42,0,0,0,0,1,46
+Cloud Architecture,93,48,0,0,0,0,1,45
+Docker,94,50,0,0,0,0,1,44
+Ethical Hacking,86,42,0,0,0,0,1,44
+Deep Learning,92,50,1,1,0,0,0,42
+Network Security,89,48,0,0,0,0,1,41
+Terraform,81,40,0,0,0,0,1,41
+Machine Learning,94,55,1,1,0,0,1,39
+CI/CD,90,52,0,0,0,0,1,38
+DevOps Fundamentals,90,52,0,0,0,0,1,38
+NodeJS,90,55,0,0,0,1,0,35
+High-Level Design,93,58,0,1,0,0,0,35
+Android Development,85,50,0,0,0,1,0,35
+System Design,96,62,0,1,0,0,0,34
+ReactJS,93,60,0,0,0,1,0,33
+ExpressJS,85,52,0,0,0,1,0,33
+GraphQL,78,45,0,0,0,1,0,33
+Microservices,88,56,0,0,0,1,0,32
+Low-Level Design,92,60,0,1,0,0,0,32
+Angular,79,48,0,0,0,1,0,31
+JavaScript,95,68,0,0,0,1,0,27
+TypeScript,84,57,0,0,0,1,0,27
+REST APIs,92,66,0,0,0,1,0,26
+Tableau,82,58,0,0,1,0,0,24
+Jenkins,79,55,0,0,0,0,1,24
+Bash Scripting,78,55,1,0,0,0,0,23
+Selenium,70,48,0,0,0,0,0,22
+API Testing,72,50,0,0,0,0,0,22
+NoSQL,80,59,0,0,1,0,0,21
+MongoDB,84,63,0,0,1,0,0,21
+Data Analysis,90,70,0,0,1,0,0,20
+Power BI,80,60,0,0,1,0,0,20
+Linux Administration,84,65,1,0,0,0,0,19
+Linux,89,70,1,0,0,0,0,19
+Computer Networks,86,68,0,1,0,0,0,18
+Data Modeling,87,70,0,0,1,0,0,17
+Cybersecurity Basics,80,64,0,0,0,0,0,16
+Java,88,74,1,1,0,0,0,14
+Python,92,78,1,1,0,0,0,14
+Algorithms,94,80,0,1,0,0,0,14
+C#,75,62,1,0,0,0,0,13
+Data Structures,95,82,0,1,0,0,0,13
+Problem Solving,88,75,1,1,0,0,0,13
+Operating Systems,83,70,1,0,0,0,0,13
+UI/UX Design,75,62,0,0,0,1,0,13
+Software Testing,77,65,0,0,0,0,0,12
+PostgreSQL,86,74,0,0,1,0,0,12
+System Administration,82,70,1,0,0,0,0,12
+Shell Scripting,76,64,1,0,0,0,0,12
+C++,81,70,1,1,0,0,0,11
+MySQL,88,77,0,0,1,0,0,11
+Critical Thinking,85,74,1,1,0,0,0,11
+Git,87,76,1,0,0,0,0,11
+GitHub,89,78,1,0,0,0,0,11
+SDLC,86,75,0,0,0,0,0,11
+Agile/Scrum,82,72,0,0,0,0,0,10
+DBMS Concepts,90,80,0,0,1,0,0,10
+SQL,91,82,0,0,1,0,0,9
+HTML/CSS,89,80,0,0,0,1,0,9
+OOP Concepts,88,84,1,1,0,0,0,4
+Leadership,70,68,0,0,0,0,0,2
+Team Collaboration,80,78,0,0,0,0,0,2
+Communication,78,80,0,0,0,0,0,-2
