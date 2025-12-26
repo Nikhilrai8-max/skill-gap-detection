@@ -1,4 +1,3 @@
-
 # SkillGap-PCA Final Project
 
 # 🚀 SkillGap-PCA  
@@ -38,3 +37,8 @@ pip install -r requirements.txt
 python main.py
 streamlit run app/dashboard.py
 ```
+
+---
+
+## 🤝 Contributing
+We welcome contributions! Please fork the repository, make your changes, and submit a pull request. For major changes, open an issue first to discuss.
